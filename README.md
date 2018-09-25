@@ -14,5 +14,6 @@ See [the pdf](lab2.pdf) for install instructions.
 Uncompress the data folder
 
 ```
+cd notebooks
 tar xvf data.tar.bz2
 ```
